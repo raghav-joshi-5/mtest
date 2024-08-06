@@ -33,7 +33,7 @@ movieArray.forEach((movie)=>{
 												</h3>
 											</div>
 											<div class="col-2 align-self-center">
-												<span class="${setreating(movie.vote_average)} rating">${movie.vote_average}</span>
+												<span class="${setreating(movie.vote_average)} rating p-1">${movie.vote_average}</span>
 											</div>
 										</div>
 									</div>
